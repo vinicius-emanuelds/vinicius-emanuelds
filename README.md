@@ -4,7 +4,7 @@
 
 Graduando em Análise e Desenvolvimento de Sistemas, tenho 31 anos e estou em plena transição de carreira. Encontrei na programação a maneira perfeita de unir minhas habilidades, paixões e aptidões. Foi isso que me fez deixar a área da saúde e mergulhar de cabeça na tecnologia. Hoje, meu foco é no desenvolvimento full stack (front-end e back-end), criando aplicações que realmente façam a diferença na vida de milhares de usuários.
 
-Sou estudante na ([FATEC Arthur de Azevedo](https://fatecmm.cps.sp.gov.br/)), uma das Faculdades de Tecnologia do Estado de São Paulo, na cidade de Mogi Mirim.
+Sou estudante na [FATEC Arthur de Azevedo](https://fatecmm.cps.sp.gov.br/), uma das Faculdades de Tecnologia do Estado de São Paulo, na cidade de Mogi Mirim.
 
 * 🌍  Moro em Mogi Mirim, São Paulo.
 * ✉️  Você pode me contatar em [vinicius.emanuelds@gmail.com](mailto:vinicius.emanuelds@gmail.com)

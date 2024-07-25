@@ -8,7 +8,7 @@ Sou estudante na [FATEC Arthur de Azevedo](https://fatecmm.cps.sp.gov.br/), uma 
 
 * 🌍  Moro em Mogi Mirim, São Paulo.
 * ✉️  Você pode me contatar em [vinicius.emanuelds@gmail.com](mailto:vinicius.emanuelds@gmail.com)
-* 🚀  Atualmente, continuo atuando na área da saúde, mas sigo em busca de minha primeira opurtinidade na área de programação.
+* 🚀  Atualmente, continuo atuando na área da saúde, mas sigo em busca de minha primeira oportunidade na área de programação.
 * 🧠  Estou aprendendo Metodologias Ágeis, Programação Orientada a Objetos e as linguagens de programação C, Python e Java.
 * 🤝  Estou aberto a colaborar em projetos que têm alto impacto na vida das pessoas
 

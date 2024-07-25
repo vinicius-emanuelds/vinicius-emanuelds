@@ -12,10 +12,6 @@ Sou estudante na [FATEC Arthur de Azevedo](https://fatecmm.cps.sp.gov.br/), uma 
 * 🧠  Estou aprendendo Metodologias Ágeis, Programação Orientada a Objetos e as linguagens de programação C, Python e Java.
 * 🤝  Estou aberto a colaborar em projetos que têm alto impacto na vida das pessoas
 
-### 📊 Estatísticas no GitHub:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinicius-emanuelds&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-</div>
-
 #### Skills
 
 <p align="left">
@@ -23,6 +19,12 @@ Sou estudante na [FATEC Arthur de Azevedo](https://fatecmm.cps.sp.gov.br/), uma 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="36" height="36" alt="Java" /></a>
 </p>
+
+### 📊 Estatísticas no GitHub:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinicius-emanuelds&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-emanuelds&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/gui-loko)
 
 #### Redes Sociais
 

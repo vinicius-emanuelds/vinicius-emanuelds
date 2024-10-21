@@ -24,7 +24,7 @@ Sou estudante na [FATEC Arthur de Azevedo](https://fatecmm.cps.sp.gov.br/), uma 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinicius-emanuelds&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-emanuelds&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/gui-loko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-emanuelds&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/vinicius-emanuelds)
 
 #### Redes Sociais
 

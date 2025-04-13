@@ -43,9 +43,9 @@ Projetos com propósito, que envolvam tecnologia acessível, escalável e que de
 
 ### 📊 Estatísticas no GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinicius-emanuelds&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-emanuelds&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/vinicius-emanuelds) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinicius-emanuelds&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-emanuelds&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/vinicius-emanuelds)
+
 
 ---
 
@@ -55,5 +55,4 @@ Projetos com propósito, que envolvam tecnologia acessível, escalável e que de
   <a href="https://github.com/vinicius-emanuelds" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/viniciusesilva/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   &nbsp;&nbsp;
-  ✉️ [vinicius.emanuelds@gmail.com](mailto:vinicius.emanuelds@gmail.com)
 </p>

@@ -1,6 +1,6 @@
 ## Olá! 👋 Meu nome é Vinicius
 
-#### De técnico de enfermagem a DevSecOps — e com muito código pela frente.
+#### Do jaleco branco à Tech Lover — e com muito código pela frente.
 
 Graduando em Análise e Desenvolvimento de Sistemas pela [FATEC Arthur de Azevedo](https://fatecmm.cps.sp.gov.br/) e atualmente estagiando em Cloud & DevSecOps na Compass UOL, estou em plena transição de carreira. Saí da área da saúde não por insatisfação, mas por vocação: descobri na tecnologia uma forma mais escalável de continuar resolvendo problemas reais, com empatia, lógica e impacto.
 
